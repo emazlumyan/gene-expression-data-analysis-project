@@ -3,7 +3,7 @@
 
 **Project Context**
 
-The Gene Expression Data Analysis project was part of the curriculum of the course MCDB 172 (Biological Dynamics) at UC Santa Barbara. The project tasked students with selecting a published scientific research article and performing data analysis techniques on article data to extract useful scientific information.
+The Gene Expression Data Analysis group project was part of the curriculum of the course MCDB 172 (Biological Dynamics) at UC Santa Barbara. The project tasked students with selecting a published scientific research article and performing data analysis techniques on article data to extract useful scientific information.
 
 **Project Overview**
 
