@@ -13,7 +13,7 @@ The program executes data analysis techniques on data from the 2007 BMC Systems 
 
 - The program is written in Python and is of the .ipynb (Jupyter Notebook) file format. It is designed to be run in Jupyter Notebook or a compatible environment.
 - The program is designed to import data connected to the article which is accessible to the public. This publicly accessible data that the program uses is arranged in three .csv files that are included in this repository for program compilation and for reference. Upload of .csv files "geneexpdata_import.csv" and "Actual_rat_alt_data_import - Sheet1.csv" into Jupyter Notebook or a compatible environment is required for the program to be able to run.
-- The data used in the program is publicly accessible at the link to the article and through the NCBI Gene Expression Omnibus at the NCBI link provided below. The destination of the NCBI link provided below can also be accessed by querying platform accession number GPL890 in the Gene Expression Omnibus and selecting "View full table...".
+- The data used in the program is publicly accessible through the link to the article and through the NCBI Gene Expression Omnibus at the NCBI link provided below. The destination of the NCBI link provided below can also be accessed by querying platform accession number GPL890 in the Gene Expression Omnibus and selecting "View full table...".
 
 **Article Citation**
 
