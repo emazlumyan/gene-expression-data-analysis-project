@@ -1,0 +1,65 @@
+Dose Group (mg/kg),Time Group (hr),Left Lateral Lobe Centrilobular Cell Infiltration,Left Lateral Lobe Centrilobular Necrosis,Left Medial Lobe Centrilobular Cell Infiltration,Left Medial Lobe Centrilobular Necrosis,Left Lateral Lobe Sinusoid Congestion,Left Medial Lobe Sinusoid Congestion
+50 ,6,None,None,None,None,None,None
+50 ,6,None,None,None,None,None,None
+50 ,18,None,None,None,None,None,None
+50 ,18,None,None,None,None,None,None
+50 ,24,None,None,None,None,None,None
+50 ,24,None,None,None,None,None,None
+50 ,48,None,None,None,None,None,None
+50 ,48,None,None,None,None,None,None
+50 ,48,None,None,None,None,None,None
+50 ,6,None,None,None,None,None,None
+50 ,6,None,None,None,None,None,None
+50 ,18,None,None,None,None,None,None
+50 ,18,None,None,None,None,None,None
+50 ,24,None,None,None,None,None,None
+50 ,24,None,None,None,None,None,None
+50 ,48,None,None,None,None,None,None
+150 ,6,None,None,None,None,None,None
+150 ,6,None,None,None,None,None,None
+150 ,18,None,None,None,None,None,None
+150 ,24,None,None,None,None,None,None
+150 ,24,None,None,None,None,None,None
+150 ,48,None,None,None,None,None,None
+150 ,48,None,None,None,None,None,None
+150 ,48,None,None,None,None,None,None
+150 ,6,None,None,None,None,None,None
+150 ,6,None,None,None,None,None,None
+150 ,18,None,None,None,None,None,None
+150 ,18,None,None,None,None,None,None
+150 ,18,None,None,None,None,None,None
+150 ,24,None,None,None,None,None,None
+150 ,24,None,None,None,None,None,None
+150 ,48,None,None,None,None,None,None
+1500 ,6,None,None,None,None,None,None
+1500 ,6,None,None,None,None,None,None
+1500 ,18,None,None,None,Mild,None,Moderate
+1500 ,18,None,Minimal,None,Minimal,Minimal,None
+1500 ,18,None,None,None,None,None,None
+1500 ,24,"Mononuclear Cl, Minimal",Mild,None,Mild,None,None
+1500 ,48,"Mononuclear Cl, Mild",Mild,"Mononuclear Cl, Mild",Moderate,None,Moderate
+1500 ,48,"Mononuclear Cl, Moderate",Mild,"Mononuclear Cl, Moderate",Mild,Mild,Mild
+1500 ,6,None,None,None,None,None,None
+1500 ,6,None,None,None,None,None,None
+1500 ,18,None,None,"Mononuclear Cl, Minimal",Minimal,None,Minimal
+1500 ,24,None,Mild,None,Mild,Mild,Mild
+1500 ,24,"Mononuclear Cl, Minimal",Mild,"Mononuclear Cl, Minimal",Mild,None,Minimal
+1500 ,24,"Mononuclear Cl, Minimal",Mild,"Mononuclear Cl, Minimal",Moderate,Minimal,Mild
+1500 ,48,"Mononuclear Cl, Mild",Minimal,"Mononuclear Cl, Minimal",Minimal,None,None
+1500 ,48,"Mononuclear Cl, Minimal",Minimal,"Mononuclear Cl, Mild",Mild,None,Minimal
+2000 ,6,None,None,None,None,None,None
+2000 ,6,None,None,None,None,None,None
+2000 ,18,None,Minimal,None,Marked,None,None
+2000 ,18,None,Moderate,None,Moderate,Moderate,Moderate
+2000 ,24,None,Moderate,None,Moderate,None,Marked
+2000 ,24,None,Moderate,None,Moderate,Mild,Moderate
+2000 ,48,"Mononuclear Cl, Minimal",Moderate,"Mononuclear Cl, Minimal",Moderate,Mild,Mild
+2000 ,48,"Mononuclear Cl, Mild",Mild,"Mononuclear Cl, Mild",Mild,None,None
+2000 ,6,None,None,None,None,None,None
+2000 ,6,None,None,None,None,None,None
+2000 ,18,None,Moderate,None,Moderate,Moderate,Minimal
+2000 ,18,None,Minimal,None,None,None,None
+2000 ,24,None,None,"Mononuclear Cl, Minimal",Minimal,None,None
+2000 ,24,None,Mild,None,Moderate,None,Moderate
+2000 ,48,"Mononuclear Cl, Moderate",Minimal,"Mononuclear Cl, Moderate",Mild,None,None
+2000 ,48,"Mononuclear Cl, Mild",Mild,"Mononuclear Cl, Mild",Moderate,None,Moderate
